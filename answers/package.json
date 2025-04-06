@@ -1,0 +1,35 @@
+{
+  "name": "dronaicharya",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.0",
+    "axios": "^1.4.0",
+    "dexie": "^3.2.3",
+    "next": "13.4.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-query": "^3.39.3",
+    "recharts": "^2.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "18.16.3",
+    "@types/react": "18.2.5",
+    "@types/react-dom": "18.2.4",
+    "autoprefixer": "^10.4.14",
+    "eslint": "8.40.0",
+    "eslint-config-next": "13.4.2",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2",
+    "typescript": "5.0.4"
+  }
+} 
